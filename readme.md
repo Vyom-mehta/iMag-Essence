@@ -17,6 +17,7 @@ This project is a modern, responsive product landing page for the "MagSafe Walle
 
 ## Folder Structure
 
+```plaintext
 IMAG ESSENCE
 ├── .vscode/
 ├── public/
@@ -26,7 +27,7 @@ IMAG ESSENCE
 ├── readme.md
 ├── script.js
 └── style.css
-
+```
 ## How to Run
 1. Clone the repository.
 2. Open the `index.html` file in your web browser.
