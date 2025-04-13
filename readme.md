@@ -31,7 +31,7 @@ IMAG ESSENCE
 ## How to Run
 1. Clone the repository.
 2. Open the `index.html` file in your web browser.
-3. Enjoy the interactive scrolling animations and responsive design.
+
 
 ## Libraries/Frameworks
 This project uses only vanilla HTML, CSS, and JavaScript. No external libraries or frameworks are involved.
