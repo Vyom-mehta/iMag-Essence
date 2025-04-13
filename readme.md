@@ -36,5 +36,5 @@ IMAG ESSENCE
 ## Libraries/Frameworks
 This project uses only vanilla HTML, CSS, and JavaScript. No external libraries or frameworks are involved.
 
-## Demo Video
+## Video
 Youtube-https://youtu.be/hdncu70Txyc?si=E_FbsCGy3YaGo9FP
